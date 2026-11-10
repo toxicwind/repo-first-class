@@ -1,0 +1,26 @@
+{
+  "name": "repo-first-class",
+  "version": "0.1.0",
+  "description": "Make any GitHub repo first-class: a canonical, current checkout — maximally polished, committed, pushed, remote SHA verified.",
+  "main": "src/index.py",
+  "type": "module",
+  "scripts": {
+    "dev": "pyproject.toml",
+    "test": "pyproject.toml",
+    "typecheck": "pyproject.toml",
+    "lint": "pyproject.toml",
+    "fmt": "pyproject.toml",
+    "build": "pyproject.toml",
+    "bin": {}
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "bin": {},
+  "engines": {
+    "python": ">=3.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "private": true
+}
