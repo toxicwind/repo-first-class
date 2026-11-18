@@ -22,3 +22,17 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+# pensctl audit-gitignore --fix (standard pollution)
+node_modules/
+# pensctl audit-gitignore --fix (standard pollution)
+.cache/
+# pensctl audit-gitignore --fix (standard pollution)
+target/
+# pensctl audit-gitignore --fix (standard pollution)
+blobs/
+# pensctl audit-gitignore --fix (standard pollution)
+sessions/
+# pensctl audit-gitignore --fix (standard pollution)
+.next/
+# pensctl audit-gitignore --fix (standard pollution)
+.turbo/
